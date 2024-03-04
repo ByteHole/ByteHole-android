@@ -19,7 +19,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
-import com.github.boybeak.bytehole.channel.Channel
+import com.github.bytehole.channel.Channel
 import com.github.bytehole.ui.theme.ByteHoleTheme
 
 class MainActivity : ComponentActivity() {
